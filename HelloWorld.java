@@ -4,6 +4,7 @@ public class HelloWorld {
 	 System.out.println("hello again");
 	 System.out.println("тест русский");
 	 System.out.println("Bonjour");
+	 System.out.println("Bon soir");
 	 
 }
 }
