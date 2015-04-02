@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vcs-root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" uuid="9fc74d39-9c94-47d9-a3ec-0d78b74c8470" type="perforce" xsi:noNamespaceSchemaLocation="http://www.jetbrains.com/teamcity/schemas/9.0/project-config.xsd">
+  <name>perforce: unit-431:1666: perforce client mapping with 1 rules</name>
+  <param name="client-mapping" value="//depot/... //team-city-agent/..." />
+  <param name="p4-exe" value="p4" />
+  <param name="port" value="unit-431:1666" />
+  <param name="use-client" value="false" />
+  <param name="workspace-options"><![CDATA[Options:        noallwrite noclobber nocompress unlocked nomodtime rmdir
+SubmitOptions:  revertunchanged
+LineEnd:        local]]></param>
+</vcs-root>
+
